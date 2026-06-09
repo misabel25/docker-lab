@@ -1,1 +1,3 @@
-print("Hola mundo")
+
+nomre = input("¿Cómo te llamas? ")
+print("Hola", nombre, "👋")
